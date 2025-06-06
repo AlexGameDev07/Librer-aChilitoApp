@@ -50,7 +50,7 @@ frontend/
 
 ### 1. Clona el repositorio
 ```bash
-git clone https://github.com/AlexGameDev07/Librer-aChilitoApp
+git clone https://github.com/AlexGameDev07/Librer-aChilitoApp.git
 cd frontend
 ```
 
