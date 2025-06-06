@@ -50,7 +50,7 @@ frontend/
 
 ### 1. Clona el repositorio
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/AlexGameDev07/Librer-aChilitoApp
 cd frontend
 ```
 
@@ -97,7 +97,3 @@ La app estará disponible en http://localhost:5173 (o el puerto que indique Vite
 - Validación: No permite campos vacíos en los formularios.
 - Notificaciones: Se usan para informar al usuario sobre el éxito o error de las operaciones.
 - Dark mode: Se puede alternar en cualquier momento.
-
-## 🧑‍💻 Autor y créditos
-
-Desarrollado como ejemplo de gestión de biblioteca personal con React + Vite.
